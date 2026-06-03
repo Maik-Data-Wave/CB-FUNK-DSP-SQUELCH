@@ -14,3 +14,8 @@ Viel Spass und Erfolg mit der Software!
 Ich würde mich über ein Feedback freuen ;-)
 
 <img width="1918" height="639" alt="bild1" src="https://github.com/user-attachments/assets/d6f3c89e-057a-4c8a-a829-7cc47d2523d6" />
+
+
+
+
+#HTML #JAVASCRIPT #C++ #WASM #CB #FUNK #SQUELCH #GATEWAY #DIGIPEATER #MESSAGE #CALL #DSP 
